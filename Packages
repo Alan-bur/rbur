@@ -1,0 +1,14 @@
+Package: com.test.package
+Name: Test Package
+Version: 1.0
+Architecture: iphoneos-arm
+Description: This is a test package!
+Maintainer: alanbur2020@gmail.com
+Author: alanbur2020@gmail.com
+Section: Grape OS
+Depends:
+Filename: debs/test.deb
+Size: 13916
+MD5sum: 
+SHA1:
+SHA256:
